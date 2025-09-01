@@ -16,6 +16,8 @@ from typing import Dict, Optional
 import tkinter as tk
 from tkinter import ttk
 
+from flask import app
+
 # Palettes roughly inspired by VS Code Dark+ and Light+
 PALETTE_DARK: Dict[str, str] = {
     "bg": "#1e1e1e",         # window background
@@ -85,7 +87,7 @@ def apply_theme(
     app.configure(bg=bg)
 
     # App-wide default font (subtle, optional)
-    app.option_add("*Font", "Segoe UI 10")
+    app.option_add("*Font", ("Segoe UI", 10))
 
     # Base style
     style.configure(".", background=bg, foreground=fg, fieldbackground=panel)
@@ -103,6 +105,7 @@ def apply_theme(
         focusthickness=0,
         padding=(10, 6),
     )
+
     style.map(
         "Flat.TButton",
         background=[("active", "#2a2d2e" if dark else "#eaeaea"),
