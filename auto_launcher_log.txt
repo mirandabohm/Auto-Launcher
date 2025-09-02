@@ -90,3 +90,135 @@
 2025-08-31 18:43:42 - Manual - Launched App: Notepad
 2025-08-31 18:47:08 - Manual - Opened URL: FRED (Macro)
 2025-08-31 18:47:25 - Manual - Opened URL: WSJ Markets
+2025-08-31 19:35:31 - Manual - Opened URL: Yahoo Finance
+2025-08-31 19:36:02 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 19:36:03 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 19:36:03 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 19:36:08 - Manual - Opened URL: Yahoo Finance
+2025-08-31 19:56:38 - Manual - Opened URL: Yahoo Finance
+2025-08-31 19:56:41 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 19:56:41 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 19:56:42 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 19:56:52 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 19:56:52 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 19:56:53 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 19:56:57 - Local Tools - Launched App: Notepad
+2025-08-31 19:56:57 - Research Suite - Opened URL: Reuters Markets
+2025-08-31 19:56:57 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 19:56:57 - Local Tools - Launched App: Excel
+2025-08-31 19:56:57 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 19:56:57 - Research Suite - Opened URL: FRED (Macro)
+2025-08-31 19:56:58 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 19:56:58 - Research Suite - Opened URL: Bloomberg Mkts
+2025-08-31 19:58:24 - Local Tools - Launched App: Notepad
+2025-08-31 19:58:25 - Local Tools - Launched App: Excel
+2025-08-31 19:58:37 - Research Suite - Opened URL: Reuters Markets
+2025-08-31 19:58:38 - Research Suite - Opened URL: FRED (Macro)
+2025-08-31 19:58:38 - Research Suite - Opened URL: Bloomberg Mkts
+2025-08-31 19:59:44 - Manual - Opened URL: TradingView Chart
+2025-08-31 20:00:23 - Manual - Launched App: Notepad
+2025-08-31 20:04:47 - Local Tools - Launched App: Notepad
+2025-08-31 20:04:48 - Local Tools - Launched App: Excel
+2025-08-31 20:41:36 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 20:41:36 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 20:41:37 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 20:55:09 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 20:55:09 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 20:55:10 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 20:55:10 - Trading Suite - Opened URL: Disney+
+2025-08-31 21:06:26 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 21:06:26 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 21:06:27 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 21:07:09 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 21:07:10 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 21:07:10 - Trading Suite - Opened URL: WSJ Markets
+2025-08-31 21:07:11 - Trading Suite - Opened URL: Google
+2025-08-31 21:22:31 - Trading Suite - Opened URL: TradingView Chart
+2025-08-31 21:22:32 - Trading Suite - Opened URL: Yahoo Finance
+2025-08-31 21:22:33 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 16:23:40 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 16:23:40 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 16:23:41 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 16:23:42 - Trading Suite - Opened URL: GoogleFR
+2025-09-01 16:23:42 - Trading Suite - Opened URL: CBC
+2025-09-01 16:30:58 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 16:30:59 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 16:30:59 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 16:31:00 - Trading Suite - Opened URL: GoogleFR
+2025-09-01 16:31:00 - Trading Suite - Opened URL: CBC
+2025-09-01 16:31:18 - Local Tools - Launched App: Notepad
+2025-09-01 16:31:18 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 16:31:18 - Research Suite - Opened URL: Reuters Markets
+2025-09-01 16:31:19 - Research Suite - Opened URL: FRED (Macro)
+2025-09-01 16:31:19 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 16:31:19 - Local Tools - Launched App: Excel
+2025-09-01 16:31:19 - Research Suite - Opened URL: Bloomberg Mkts
+2025-09-01 16:31:19 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 16:31:20 - Trading Suite - Opened URL: GoogleFR
+2025-09-01 16:31:20 - Trading Suite - Opened URL: CBC
+2025-09-01 16:31:33 - Manual - Opened URL: FRED (Macro)
+2025-09-01 16:31:33 - Manual - Opened URL: Bloomberg Mkts
+2025-09-01 16:32:00 - Research Suite - Opened URL: Reuters Markets
+2025-09-01 16:32:01 - Research Suite - Opened URL: FRED (Macro)
+2025-09-01 16:32:01 - Research Suite - Opened URL: Bloomberg Mkts
+2025-09-01 16:32:42 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 16:32:42 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 16:32:43 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 16:32:44 - Trading Suite - Opened URL: GoogleFR
+2025-09-01 16:32:44 - Trading Suite - Opened URL: CBC
+2025-09-01 16:32:55 - Local Tools - Launched App: Notepad
+2025-09-01 16:32:55 - Research Suite - Opened URL: Reuters Markets
+2025-09-01 16:32:55 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 16:32:55 - Local Tools - Launched App: Excel
+2025-09-01 16:32:55 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 16:32:55 - Research Suite - Opened URL: FRED (Macro)
+2025-09-01 16:32:56 - Research Suite - Opened URL: Bloomberg Mkts
+2025-09-01 16:32:56 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 16:32:56 - Trading Suite - Opened URL: GoogleFR
+2025-09-01 16:32:57 - Trading Suite - Opened URL: CBC
+2025-09-01 17:13:06 - Manual - Opened URL: Google
+2025-09-01 17:14:03 - Test_Profile - Opened URL: Google Canada
+2025-09-01 17:16:17 - Local Tools-2 - Launched App: Notepad
+2025-09-01 17:16:17 - Local Tools-2 - Launched App: Excel
+2025-09-01 17:22:46 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 17:22:46 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 17:22:47 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 17:22:47 - Trading Suite - Opened URL: CBC
+2025-09-01 17:23:00 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 17:23:00 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 17:23:01 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 17:23:01 - Trading Suite - Opened URL: CBC
+2025-09-01 17:25:34 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 17:25:35 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 17:25:35 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 17:25:36 - Trading Suite - Opened URL: CBC
+2025-09-01 17:46:44 - Phoenix - Opened URL: youtube
+2025-09-01 17:46:44 - Phoenix - Opened URL: google
+2025-09-01 18:14:55 - Research Suite - Opened URL: Reuters Markets
+2025-09-01 18:14:56 - Research Suite - Opened URL: FRED (Macro)
+2025-09-01 18:14:56 - Research Suite - Opened URL: Bloomberg Mkts
+2025-09-01 18:14:57 - Research Suite - Opened URL: Youtube
+2025-09-01 18:40:20 - Canadian_Club - Opened URL: Comma
+2025-09-01 18:40:21 - Canadian_Club - Opened URL: ytouube
+2025-09-01 18:40:22 - Canadian_Club - Opened URL: twitch
+2025-09-01 18:49:05 - Local Tools - Launched App: Notepad
+2025-09-01 18:49:05 - Local Tools - Launched App: Excel
+2025-09-01 18:49:27 - Andy - Opened URL: yt
+2025-09-01 18:51:00 - Research Suite - Opened URL: Reuters Markets
+2025-09-01 18:51:00 - Research Suite - Opened URL: FRED (Macro)
+2025-09-01 18:51:01 - Research Suite - Opened URL: Bloomberg Mkts
+2025-09-01 18:51:02 - Research Suite - Opened URL: Youtube
+2025-09-01 18:53:17 - Andy 2.0 - Opened URL: google
+2025-09-01 18:53:18 - Andy 2.0 - Opened URL: YT
+2025-09-01 18:53:24 - Local Tools - Launched App: Notepad
+2025-09-01 18:53:24 - Research Suite - Opened URL: Reuters Markets
+2025-09-01 18:53:24 - Trading Suite - Opened URL: TradingView Chart
+2025-09-01 18:53:24 - Local Tools - Launched App: Excel
+2025-09-01 18:53:24 - Trading Suite - Opened URL: Yahoo Finance
+2025-09-01 18:53:24 - Research Suite - Opened URL: FRED (Macro)
+2025-09-01 18:53:25 - Research Suite - Opened URL: Bloomberg Mkts
+2025-09-01 18:53:25 - Trading Suite - Opened URL: WSJ Markets
+2025-09-01 18:53:25 - Trading Suite - Opened URL: CBC
+2025-09-01 18:53:25 - Research Suite - Opened URL: Youtube
+2025-09-01 18:53:46 - Manual - Opened URL: FRED (Macro)
+2025-09-01 18:53:46 - Manual - Opened URL: Youtube

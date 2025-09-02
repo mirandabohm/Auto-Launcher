@@ -1,25 +1,66 @@
 {
     "profiles": {
-      "Trading Suite": [
-        {"type": "url", "label": "TradingView Chart", "target": "https://www.tradingview.com/chart/"},
-        {"type": "url", "label": "Yahoo Finance",    "target": "https://finance.yahoo.com/"},
-        {"type": "url", "label": "WSJ Markets",      "target": "https://www.wsj.com/market-data"}
-      ],
-      "Research Suite": [
-        {"type": "url", "label": "Reuters Markets",  "target": "https://www.reuters.com/markets/"},
-        {"type": "url", "label": "FRED (Macro)",     "target": "https://fred.stlouisfed.org/"},
-        {"type": "url", "label": "Bloomberg Mkts",   "target": "https://www.bloomberg.com/markets"}
-      ],
-      "Local Tools": [
-        {"type": "app", "label": "Notepad",          "target": "notepad.exe"},
-        {"type": "app", "label": "Excel",            "target": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"}
-      ]
+        "Trading Suite": [
+            {
+                "type": "url",
+                "label": "TradingView Chart",
+                "target": "https://www.tradingview.com/chart/"
+            },
+            {
+                "type": "url",
+                "label": "Yahoo Finance",
+                "target": "https://finance.yahoo.com/"
+            },
+            {
+                "type": "url",
+                "label": "WSJ Markets",
+                "target": "https://www.wsj.com/market-data"
+            },
+            {
+                "type": "url",
+                "label": "CBC",
+                "target": "www.cbc.ca"
+            }
+        ],
+        "Local Tools": [
+            {
+                "type": "app",
+                "label": "Notepad",
+                "target": "notepad.exe"
+            },
+            {
+                "type": "app",
+                "label": "Excel",
+                "target": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"
+            }
+        ],
+        "Research Suite": [
+            {
+                "type": "url",
+                "label": "Reuters Markets",
+                "target": "https://www.reuters.com/markets/"
+            },
+            {
+                "type": "url",
+                "label": "FRED (Macro)",
+                "target": "https://fred.stlouisfed.org/"
+            },
+            {
+                "type": "url",
+                "label": "Bloomberg Mkts",
+                "target": "https://www.bloomberg.com/markets"
+            },
+            {
+                "type": "url",
+                "label": "Youtube",
+                "target": "www.youtube.com"
+            }
+        ]
     },
     "launch": {
-      "stagger_ms": 300,
-      "comment": "Delay (in milliseconds) between each app launch",
-      "avoid_duplicates": true,
-      "comment2": "If true, the launcher won’t reopen apps that are already running"
+        "stagger_ms": 300,
+        "comment": "Delay (in milliseconds) between each app launch",
+        "avoid_duplicates": true,
+        "comment2": "If true, the launcher won\u2019t reopen apps that are already running"
     }
-  }
-  
+}
